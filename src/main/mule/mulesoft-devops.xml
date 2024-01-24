@@ -17,7 +17,9 @@ output application/json
 ---
 {
 	Time: now()
-}]]></ee:set-payload>
+}
+
+//payload]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
 	</flow>
