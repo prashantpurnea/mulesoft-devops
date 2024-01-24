@@ -19,7 +19,7 @@ output application/json
 	Time: now()
 }
 
-//payload]]></ee:set-payload>
+]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
 	</flow>
